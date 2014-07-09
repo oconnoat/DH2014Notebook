@@ -1,0 +1,11 @@
+# Site settings
+title: "Digital Humanities 2014 Notebook" 
+email: "Alex.OConnor@scss.tcd.ie"
+description: "Random notes, links and thoughts from sessions."
+baseurl: "/DH2014Notebook"
+twitter_username: uberalex
+github_username:  oconnoat
+
+# Build settings
+markdown: kramdown
+permalink: pretty

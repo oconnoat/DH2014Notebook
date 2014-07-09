@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "Session 1"
+date:   2014-07-09 14:38:35
+categories: dh2014 session1 ontologies 
+---
+
+# Ontology Alignment for Controversial Ontologies
+
+#Annotation Motivation
+(Presenting Author: @cutuchiqueno>
+
+* Open Annotation Motivation inventory: <http://www.openannotation.org/spec/core/20130208/core.html#Motivations>
+* Study on motivation, deconstructs annotation into three axes: <http://elk.library.ubc.ca/bitstream/handle/2429/26743/ubc_2010_fall_chiang_chianing.pdf?sequence=5>
+* DARIAH Taxonomy of Research Activities: <https://github.com/dhtaxonomy/TaDiRAH>
+
+* Annotation Environment <http://austese.net/>
+
+## Remarks/Questions
+* Modelling agreement problem and question about whether it aligns with user and what the app permits
+* Annotation licensing and rights, especially for re-use
+
+
+# SLSAH VRE
+<http://www.dhlab.unibas.ch/index.php/de/forschung/salsah>
+
+* Annotate rich items (manuscript images, regions of interest etc)
+* Stores the data as RDF
+    * uses stardog <http://stardog.com/>
+* Access local and remotely hosted items
+    * create proxy objects for externally-hosted items
+* In-browser windows/desktop paradigm for multiple views
+* Rich links
+* Current issue: versioning and citability
+    * Temporal RDF: considering either temporal annotation of statements, or explicit user-driven versioning
+    * Changing something creates a new unit of information
+* Distributed Storage &amp; preservation <http://distarnet.ch/>
+## Remarks Questions
+* What is the boundary of VREs? Institution, Markup, content?
+* What is environmental about research environments?
+
+# Semantic network of Dante's Works
+<http://dante1.isti.cnr.it:8080/perunaenciclopediadantescadigitale/>
+* Embeds XML Snippets in RDF
+
+##Remarks &amp; Questions
+* RDF doesn't handle text well
+    * split the markup into that which RDF should cover (the things you want to reason over or understand) and the structural (which remains xml or html)
+* If you permit user annotations and creation of triples by users, how do you avoid a mess?
+    * RDF is a tool for materialising an already-existing consensus
+

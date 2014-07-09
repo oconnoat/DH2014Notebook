@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Session 3 Visualisation and Topic Models"
+date:   2014-07-09 14:38:35
+categories: TopicModels visualisation textmining 
+---
+
+## Topic Modelling L'encyclopedia
+* topic classificaations were about 25% single-use
+* topics were used to hide controversial articles and philosophical/political opinions
+* reconciling editorial classification with automatic
+* recomposition of categories (eg grouping different types of law into jurisprudence)
+
+## Seeing the trees
+* Jockers, 2012: "how do we mine texts to find something we don't already know?"
+* http://www.tapor.ca/
+
+### Questions
+* No analysis of research questions
+* Scalability in representations
+* Balance clarity vs loss of detail
+* Limitations of visual model 
+
+## Trading Consequences
+
+* pre-existing OCR'd text and Gazeteers
+* Rare commodity information and terms
+    * boot-strapped lexicon with historians' input (Klein et. al. 2014)
+* If visualisations are the entry point, and deeper analysis is required how do we manifest those technically?

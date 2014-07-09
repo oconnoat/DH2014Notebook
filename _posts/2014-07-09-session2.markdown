@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "Session 2 Newspapers"
+date:   2014-07-09 14:38:35
+categories: Newspapers userlogs europeana
+---
+
+# Representation and Absence in Digital Resources
+
+## Alistair Dunning
+
+* 2 million pages, growing to 10 million
+  * vanishingly small fraction of the amount of newspaper content that exists
+* What users did &amp; didn't say:
+  * annotation
+  * datamining collections
+* how to represent absence?
+  * can't just use placeholders, as virtually every result would be almost all blank
+  * may not even have the metadata for blanks, and hard to know when a blank is filled
+    * google books goes by shelf
+* OCR Quality
+    * show the users a graph of how much content that they are throwing away by selecting different ocr thresholds
+
+* Application for generating sample content http://samplegenerator.cloudapp.net/
+* Interfaces built on the Austrialian Trove database http://wraggelabs.com/
+* Nature Scientific Data http://www.nature.com/sdata/for-authors/submission-guidelines#format
+
+## Welsh Newspapers User logs
+
+* Search highly dominant to start sessions, but sessions increasingly browsed further in
+* Often started at page 1 -- feature of page interface?
+* high-point at 1840s and before ww1 (rating decade visits vs available resources)
+* archive reading in real life is target-focused, digital libraries conflate multiple task aspects <http://dl.acm.org/citation.cfm?id=263817>
+* DH-related novel <http://www.goodreads.com/book/show/13538873-mr-penumbra-s-24-hour-bookstore>
+
+## Topic Modelling
+
+* how to do TM while hiding the unncessary details for users
+* Tukey's exploratory data modelling
+* Wordseer: exploratory text analysis (iterative, researcher-driven process of inquiry)
+    * visualisation enhances
+* MALLET visualisation http://agoldst.github.io/dfr-browser/
+* Readings in visualisation http://dl.acm.org/citation.cfm?id=300679
+* Concealing epistemological biases hidden in the visualisation http://www.hup.harvard.edu/catalog.php?isbn=9780674724938
+
+
+
+

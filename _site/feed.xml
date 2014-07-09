@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digital Humanities 2014 Notebook</title>
+    <description>Random notes, links and thoughts from sessions.</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 09 Jul 2014 15:02:49 +0200</pubDate>
+    <lastBuildDate>Wed, 09 Jul 2014 15:02:49 +0200</lastBuildDate>
+    <generator>Jekyll v2.1.0</generator>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
+To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 09 Jul 2014 16:38:35 +0200</pubDate>
+        <link>/jekyll/update/2014/07/09/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">/jekyll/update/2014/07/09/welcome-to-jekyll/</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Session 4</title>
+        <description>&lt;h1 id=&quot;talk1&quot;&gt;Talk1&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;point 1&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Wed, 09 Jul 2014 16:38:35 +0200</pubDate>
+        <link>/session/2014/07/09/session4/</link>
+        <guid isPermaLink="true">/session/2014/07/09/session4/</guid>
+        
+        
+        <category>session</category>
+        
+      </item>
+    
+      <item>
+        <title>Session 3 Visualisation and Topic Models</title>
+        <description>&lt;h1 id=&quot;topic-modelling-lencyclopedia&quot;&gt;Topic Modelling L’encyclopedia&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;topic classificaations were about 25% single-use&lt;/li&gt;
+  &lt;li&gt;topics were used to hide controversial articles and philosophical/political opinions&lt;/li&gt;
+  &lt;li&gt;reconciling editorial classification with automatic&lt;/li&gt;
+  &lt;li&gt;recomposition of categories (eg grouping different types of law into jurisprudence)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;seeing-the-trees&quot;&gt;Seeing the trees&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Jockers, 2012: “how do we mine texts to find something we don’t already know?”&lt;/li&gt;
+  &lt;li&gt;http://www.tapor.ca/&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;questions&quot;&gt; Questions&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;No analysis of research questions&lt;/li&gt;
+  &lt;li&gt;Scalability in representations&lt;/li&gt;
+  &lt;li&gt;Balance clarity vs loss of detail&lt;/li&gt;
+  &lt;li&gt;Limitations of visual model &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;trading-consequences&quot;&gt;Trading Consequences&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;pre-existing OCR’d text and Gazeteers&lt;/li&gt;
+  &lt;li&gt;Rare commodity information and terms&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 09 Jul 2014 16:38:35 +0200</pubDate>
+        <link>/topicmodels/visualisation/textmining/2014/07/09/session3/</link>
+        <guid isPermaLink="true">/topicmodels/visualisation/textmining/2014/07/09/session3/</guid>
+        
+        
+        <category>topicmodels</category>
+        
+        <category>visualisation</category>
+        
+        <category>textmining</category>
+        
+      </item>
+    
+      <item>
+        <title>Session 2 Newspapers</title>
+        <description>&lt;h1 id=&quot;representation-and-absence-in-digital-resources&quot;&gt;Representation and Absence in Digital Resources&lt;/h1&gt;
+
+&lt;h2 id=&quot;alistair-dunning&quot;&gt;Alistair Dunning&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2 million pages, growing to 10 million
+    &lt;ul&gt;
+      &lt;li&gt;vanishingly small fraction of the amount of newspaper content that exists&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;What users did &amp;amp; didn’t say:
+    &lt;ul&gt;
+      &lt;li&gt;annotation&lt;/li&gt;
+      &lt;li&gt;datamining collections&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;how to represent absence?
+    &lt;ul&gt;
+      &lt;li&gt;can’t just use placeholders, as virtually every result would be almost all blank&lt;/li&gt;
+      &lt;li&gt;may not even have the metadata for blanks, and hard to know when a blank is filled
+        &lt;ul&gt;
+          &lt;li&gt;google books goes by shelf&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;OCR Quality
+    &lt;ul&gt;
+      &lt;li&gt;show the users a graph of how much content that they are throwing away by selecting different ocr thresholds&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Application for generating sample content http://samplegenerator.cloudapp.net/&lt;/li&gt;
+  &lt;li&gt;Interfaces built on the Austrialian Trove database http://wraggelabs.com/&lt;/li&gt;
+  &lt;li&gt;Nature Scientific Data http://www.nature.com/sdata/for-authors/submission-guidelines#format&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;welsh-newspapers-user-logs&quot;&gt;Welsh Newspapers User logs&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Search highly dominant to start sessions, but sessions increasingly browsed further in&lt;/li&gt;
+  &lt;li&gt;Often started at page 1 – feature of page interface?&lt;/li&gt;
+  &lt;li&gt;high-point at 1840s and before ww1 (rating decade visits vs available resources)&lt;/li&gt;
+  &lt;li&gt;archive reading in real life is target-focused, digital libraries conflate multiple task aspects &lt;a href=&quot;http://dl.acm.org/citation.cfm?id=263817&quot;&gt;http://dl.acm.org/citation.cfm?id=263817&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;DH-related novel &lt;a href=&quot;http://www.goodreads.com/book/show/13538873-mr-penumbra-s-24-hour-bookstore&quot;&gt;http://www.goodreads.com/book/show/13538873-mr-penumbra-s-24-hour-bookstore&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;topic-modelling&quot;&gt;Topic Modelling&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;how to do TM while hiding the unncessary details for users&lt;/li&gt;
+  &lt;li&gt;Tukey’s exploratory data modelling&lt;/li&gt;
+  &lt;li&gt;Wordseer: exploratory text analysis (iterative, researcher-driven process of inquiry)
+    &lt;ul&gt;
+      &lt;li&gt;visualisation enhances&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;MALLET visualisation http://agoldst.github.io/dfr-browser/&lt;/li&gt;
+  &lt;li&gt;Readings in visualisation http://dl.acm.org/citation.cfm?id=300679&lt;/li&gt;
+  &lt;li&gt;Concealing epistemological biases hidden in the visualisation http://www.hup.harvard.edu/catalog.php?isbn=9780674724938&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Wed, 09 Jul 2014 16:38:35 +0200</pubDate>
+        <link>/newspapers/userlogs/europeana/2014/07/09/session2/</link>
+        <guid isPermaLink="true">/newspapers/userlogs/europeana/2014/07/09/session2/</guid>
+        
+        
+        <category>newspapers</category>
+        
+        <category>userlogs</category>
+        
+        <category>europeana</category>
+        
+      </item>
+    
+      <item>
+        <title>Session 1</title>
+        <description>&lt;h1 id=&quot;ontology-alignment-for-controversial-ontologies&quot;&gt;Ontology Alignment for Controversial Ontologies&lt;/h1&gt;
+
+&lt;h1 id=&quot;annotation-motivation&quot;&gt;Annotation Motivation&lt;/h1&gt;
+&lt;p&gt;(Presenting Author: @cutuchiqueno&amp;gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Open Annotation Motivation inventory: &lt;a href=&quot;http://www.openannotation.org/spec/core/20130208/core.html#Motivations&quot;&gt;http://www.openannotation.org/spec/core/20130208/core.html#Motivations&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Study on motivation, deconstructs annotation into three axes: &lt;a href=&quot;http://elk.library.ubc.ca/bitstream/handle/2429/26743/ubc_2010_fall_chiang_chianing.pdf?sequence=5&quot;&gt;http://elk.library.ubc.ca/bitstream/handle/2429/26743/ubc_2010_fall_chiang_chianing.pdf?sequence=5&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;DARIAH Taxonomy of Research Activities: &lt;a href=&quot;https://github.com/dhtaxonomy/TaDiRAH&quot;&gt;https://github.com/dhtaxonomy/TaDiRAH&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Annotation Environment &lt;a href=&quot;http://austese.net/&quot;&gt;http://austese.net/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;remarksquestions&quot;&gt;Remarks/Questions&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Modelling agreement problem and question about whether it aligns with user and what the app permits&lt;/li&gt;
+  &lt;li&gt;Annotation licensing and rights, especially for re-use&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;slsah-vre&quot;&gt;SLSAH VRE&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.dhlab.unibas.ch/index.php/de/forschung/salsah&quot;&gt;http://www.dhlab.unibas.ch/index.php/de/forschung/salsah&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Annotate rich items (manuscript images, regions of interest etc)&lt;/li&gt;
+  &lt;li&gt;Stores the data as RDF
+    &lt;ul&gt;
+      &lt;li&gt;uses stardog &lt;a href=&quot;http://stardog.com/&quot;&gt;http://stardog.com/&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Access local and remotely hosted items
+    &lt;ul&gt;
+      &lt;li&gt;create proxy objects for externally-hosted items&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;In-browser windows/desktop paradigm for multiple views&lt;/li&gt;
+  &lt;li&gt;Rich links&lt;/li&gt;
+  &lt;li&gt;Current issue: versioning and citability
+    &lt;ul&gt;
+      &lt;li&gt;Temporal RDF: considering either temporal annotation of statements, or explicit user-driven versioning&lt;/li&gt;
+      &lt;li&gt;Changing something creates a new unit of information&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Distributed Storage &amp;amp; preservation &lt;a href=&quot;http://distarnet.ch/&quot;&gt;http://distarnet.ch/&lt;/a&gt;
+## Remarks Questions&lt;/li&gt;
+  &lt;li&gt;What is the boundary of VREs? Institution, Markup, content?&lt;/li&gt;
+  &lt;li&gt;What is environmental about research environments?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;semantic-network-of-dantes-works&quot;&gt;Semantic network of Dante’s Works&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;http://dante1.isti.cnr.it:8080/perunaenciclopediadantescadigitale/&quot;&gt;http://dante1.isti.cnr.it:8080/perunaenciclopediadantescadigitale/&lt;/a&gt;
+* Embeds XML Snippets in RDF&lt;/p&gt;
+
+&lt;h2 id=&quot;remarks-amp-questions&quot;&gt;Remarks &amp;amp; Questions&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;RDF doesn’t handle text well
+    &lt;ul&gt;
+      &lt;li&gt;split the markup into that which RDF should cover (the things you want to reason over or understand) and the structural (which remains xml or html)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;If you permit user annotations and creation of triples by users, how do you avoid a mess?
+    &lt;ul&gt;
+      &lt;li&gt;RDF is a tool for materialising an already-existing consensus&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Wed, 09 Jul 2014 16:38:35 +0200</pubDate>
+        <link>/dh2014/session1/ontologies/2014/07/09/session1/</link>
+        <guid isPermaLink="true">/dh2014/session1/ontologies/2014/07/09/session1/</guid>
+        
+        
+        <category>dh2014</category>
+        
+        <category>session1</category>
+        
+        <category>ontologies</category>
+        
+      </item>
+    
+  </channel>
+</rss>
