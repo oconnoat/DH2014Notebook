@@ -27,3 +27,9 @@ categories: TopicModels visualisation textmining
 * Rare commodity information and terms
     * boot-strapped lexicon with historians' input (Klein et. al. 2014)
 * If visualisations are the entry point, and deeper analysis is required how do we manifest those technically?
+
+* Exploration Reactions
+    * initially search for familiar commodities/locations
+    * explore how known facts are represented
+    * unexpected results lead to further inquiries
+    * visible noise in the data creates high negative response and greatly reduces trust

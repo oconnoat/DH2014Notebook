@@ -5,9 +5,13 @@ date:   2014-07-09 14:38:35
 categories: dh2014 session1 ontologies 
 ---
 
-# Ontology Alignment for Controversial Ontologies
+## Ontology Alignment for Controversial Ontologies
+* Got a group of semantic web students together who agreed a set of entities and properties as a group
+* Then got them to make triple-based statements about those concepts, entities
+* Voted agreement on all the statements for consent
 
-#Annotation Motivation
+
+## Annotation Motivation
 (Presenting Author: @cutuchiqueno>
 
 * Open Annotation Motivation inventory: <http://www.openannotation.org/spec/core/20130208/core.html#Motivations>
@@ -16,12 +20,12 @@ categories: dh2014 session1 ontologies
 
 * Annotation Environment <http://austese.net/>
 
-## Remarks/Questions
+### Remarks/Questions
 * Modelling agreement problem and question about whether it aligns with user and what the app permits
 * Annotation licensing and rights, especially for re-use
 
 
-# SLSAH VRE
+## SLSAH VRE
 <http://www.dhlab.unibas.ch/index.php/de/forschung/salsah>
 
 * Annotate rich items (manuscript images, regions of interest etc)
@@ -35,15 +39,15 @@ categories: dh2014 session1 ontologies
     * Temporal RDF: considering either temporal annotation of statements, or explicit user-driven versioning
     * Changing something creates a new unit of information
 * Distributed Storage &amp; preservation <http://distarnet.ch/>
-## Remarks Questions
+### Remarks Questions
 * What is the boundary of VREs? Institution, Markup, content?
 * What is environmental about research environments?
 
-# Semantic network of Dante's Works
+## Semantic network of Dante's Works
 <http://dante1.isti.cnr.it:8080/perunaenciclopediadantescadigitale/>
 * Embeds XML Snippets in RDF
 
-##Remarks &amp; Questions
+###Remarks &amp; Questions
 * RDF doesn't handle text well
     * split the markup into that which RDF should cover (the things you want to reason over or understand) and the structural (which remains xml or html)
 * If you permit user annotations and creation of triples by users, how do you avoid a mess?
