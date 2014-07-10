@@ -40,3 +40,4 @@ categories: dh2014 session4 serendipity
 * anxiety about incompleteness in a digital library is not seen in physical context?
 * serendipity as a reconstructed notion that only occurs in the re-telling of the story?
 
+*General Remark:* Need to distinguish the random from the serendipitous, and need to think of it as a side-effect. It sort of loses its point if it is the main intent of the action. Also, there isn;t enough work on the caputirng returning side
