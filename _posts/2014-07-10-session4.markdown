@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "Session 4 Serendipity"
+date:   2014-07-10 09:00
+categories: dh2014 session4 serendipity
+---
+
+[Three Princes of Serendip](http://en.wikipedia.org/wiki/The_Three_Princes_of_Serendip)
+
+## [serendipomatic](http://serendipomatic.org/)
+
+* in a hotel on a campus, isolated from the day to day
+* need a range of skills, and to make sure that those people are keen
+* the first project turned blog posts into a book
+    * that was unsuccessful -- needed a lot of follow-up
+* question of maintaining serendip-o-matic
+* code an development as play
+* don't keep user queries, only have google analytics
+* do some citation tracking
+* explicity stepped out of comfort zone
+* new technical platform
+* show, don't tell -- writing enticing copy
+    * legibility and accessibility
+* UX and design at the heart of the tool and how it would be use and received
+
+## Randomness vs. Serendipity
+* background vs. foreground 
+* primary and secondary activities
+* how much success is needed before it begins to count as valuable work?
+    * laurie mccay-pete http://www.informationr.net/ir/16-3/paper483.html
+* return aspect is under-emphasised
+* noticing-stopping-capturing-returning
+
+## STAKs
+* camera eye tracking
+* can elicit evidence of serendipity through task-oriented evaluations?
+* algorithm for serendipity?
+* combine a single interface for the physical and virtual resources
+* multi-dimensional context of physicality (properties of the book, size, colour, position, touch)
+* anxiety about incompleteness in a digital library is not seen in physical context?
+* serendipity as a reconstructed notion that only occurs in the re-telling of the story?
+
